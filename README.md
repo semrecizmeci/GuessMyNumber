@@ -1,1 +1,1 @@
-# GuessMyNumber
+# GuessMyNumber "We have integrated HTML, CSS, and JavaScript to create a functional game. Using the ASP.NET Core 6 MVC architecture, along with Ajax and Entity Framework, we facilitated data exchange with SQL Server."
